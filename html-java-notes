@@ -2,12 +2,14 @@
 <DOCTYPE html>
 <html>
     <body>
-        <h1>Java</h1>
-        <p>Vocab: The words that computers understand.</p>
-        <p>Syntax: How you put those words together to create instructions computers can follow</p>
-        <p>Items must be placed into brackets with an open and closing bracket</p>
+        <h1>java and html notes</h1>
+            <p>Vocab: The words that computers understand.</p>
+            <p>Syntax: How you put those words together to create instructions computers can follow</p>
+            <p>Items must be placed into brackets with an open and closing bracket</p>
         <ul>
-            <li> </li>
+            <li>For loops: for running code a specefic number of times.</li>
+            <li>While loops: If youre unsure how many times the code needs to be run this is the loop to us</li>
+            <li>if...else statements allow you to run one set of code</li>
         </ul>
     </body>
 </html>
